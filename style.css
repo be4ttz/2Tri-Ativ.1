@@ -1,7 +1,10 @@
-body{
-    background-color: #EBECEE;
+@import url("style/header.css");
 
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
 }
-h1{
-    background-color: rgb(201, 156, 243);
+
+body {
+    background-color: var(--cor-de-fundo);
 }

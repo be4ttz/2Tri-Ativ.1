@@ -1,0 +1,580 @@
+Pular para o conteúdo principal
+Google Sala de Aula
+Google Sala de Aula
+►Matematica II – 2º C - Manha - Médio
+JOSE A ARAGAO, C A P DA UEL PROF-EIEFMP
+Início
+Agenda
+Minhas inscrições
+Pendentes
+M
+MAT2AVG2-MAT - 41031520 - JOSE A ARAGAO, C A P DA UEL PROF-EIEFMP - 2ª Série - Aventureiro
+Desafio SAEB
+L
+LP2AVG2-LP - 41031520 - JOSE A ARAGAO, C A P DA UEL PROF-EIEFMP - 2ª Série - Aventureiro
+Desafio SAEB
+E
+Educacao Financeira - 2º Ano C Manha - Médio
+JOSE A ARAGAO, C A P DA UEL PROF-EIEFMP
+G
+Geografia - 2º ano C - Ensino Médio
+JOSE A ARAGAO, C A P DA UEL PROF-EIEFMP
+B
+Biologia I - 2º Ano C Manha - Médio
+JOSE A ARAGAO, C A P DA UEL PROF-EIEFMP
+F
+Fisica I - 2º Ano C Manha - Médio
+JOSE A ARAGAO, C A P DA UEL PROF-EIEFMP
+L
+Lingua Portuguesa - 2º Ano C Manha - Médio
+JOSE A ARAGAO, C A P DA UEL PROF-EIEFMP
+►
+►Matematica II – 2º C - Manha - Médio
+JOSE A ARAGAO, C A P DA UEL PROF-EIEFMP
+B
+Biologia - 2º Ano C Manha - Médio
+JOSE A ARAGAO, C A P DA UEL PROF-EIEFMP
+H
+Historia - 2º Ano C Manha - Médio
+JOSE A ARAGAO, C A P DA UEL PROF-EIEFMP
+L
+Lingua Inglesa - 2º Ano C Manha - Médio
+JOSE A ARAGAO, C A P DA UEL PROF-EIEFMP
+M
+Matematica I - 2º Ano C Manha - Médio
+JOSE A ARAGAO, C A P DA UEL PROF-EIEFMP
+S
+Sociologia - 2º Ano C Manha - Médio
+JOSE A ARAGAO, C A P DA UEL PROF-EIEFMP
+P
+Projeto De Vida - 2º Ano C Manha - Médio
+JOSE A ARAGAO, C A P DA UEL PROF-EIEFMP
+Q
+Quimica - 2º Ano C Manha - Médio
+JOSE A ARAGAO, C A P DA UEL PROF-EIEFMP
+M
+Matematica - 2º Ano C Manha - Médio
+JOSE A ARAGAO, C A P DA UEL PROF-EIEFMP
+Turmas arquivadas
+Configurações
+Mural
+Atividades
+Pessoas
+►Matematica II – 2º C - Manha - Médio JOSE A ARAGAO, C A P DA UEL PROF-EIEFMP
+►Matematica II – 2º C - Manha - Médio
+JOSE A ARAGAO, C A P DA UEL PROF-EIEFMP
+Próximas atividades
+Nenhuma atividade para a próxima semana!
+
+Escreva um aviso para sua turma
+
+Aviso: "18/06/2024 Atividade 6"
+DONIZETE DE GOUVEA
+Criado em: 18 de jun.18 de jun. (editado: 10:43)
+18/06/2024
+Atividade 6
+
+index.html
+HTML
+
+style.css
+Folha de estilo
+
+img.zip
+Arquivo compactado
+
+header.css
+Folha de estilo
+
+Adicionar comentário para a turma...
+
+
+Aviso: "<!DOCTYPE html> <html> <head> <meta…"
+DONIZETE DE GOUVEA
+Criado em: 09:3809:38
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AluraBooks</title>
+  <link rel="stylesheet" href="reset.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+  <header class="cabeçalho">
+    <div class="container">
+      <input type="checkbox" id="menu" class="container__botao" />
+      <label for="menu">
+        <span class="cabeçalho__menu-hamburguer container__imagem"></span>
+      </label>
+      <ul class="lista-menu">
+        <li class="lista-menu__titulo">Categorias</li>
+        <li class="lista-menu__item">
+          <a href="#" class="lista-menu__link">Programação</a>
+        </li>
+        <li class="lista-menu__item">
+          <a href="#" class="lista-menu__link">Front-end</a>
+        </li>
+        <li class="lista-menu__item">
+          <a href="#" class="lista-menu__link">Infraestrutura</a>
+        </li>
+        <li class="lista-menu__item">
+          <a href="#" class="lista-menu__link">Business</a>
+        </li>
+        <li class="lista-menu__item">
+          <a href="#" class="lista-menu__link">Design & UX</a>
+        </li>
+      </ul>
+      <img src="img/Logo.svg" alt="Logo da Alurabooks" class="container__imagem">
+    </div>
+    <div class="container">
+      <a href="#"><img src="img/Favoritos.svg" alt="Meus favoritos" class="container__imagem"></a>
+      <a href="#"><img src="img/Compras.svg" alt="Carrinhos de compras" class="container__imagem"></a>
+      <a href="#"><img src="img/Usuario.svg" alt="Meu perfil" class="container__imagem"></a>
+    </div>
+  </header>
+</body>
+
+</html>
+
+Adicionar comentário para a turma...
+
+
+Aviso: "@import url("styles/header.css"); :root…"
+DONIZETE DE GOUVEA
+Criado em: 09:3709:37
+@import url("styles/header.css");
+
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+Adicionar comentário para a turma...
+
+
+Aviso: ".cabeçalho__menu-hamburguer { width:…"
+DONIZETE DE GOUVEA
+Criado em: 09:3709:37
+.cabeçalho__menu-hamburguer {
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    background-image: url("../img/Menu.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.cabeçalho {
+    background-color: var(--branco);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+.container__imagem {
+    padding: 1em;
+}
+
+.lista-menu {
+    display: none;
+    position: absolute;
+    top:100%;
+}
+
+.container__botao:checked ~ .lista-menu {
+    display: block;
+}
+
+Adicionar comentário para a turma...
+
+Atividade: "08 — Recuperação 1 – 2º trimestre"
+DONIZETE DE GOUVEA postou uma nova atividade: 08 — Recuperação 1 – 2º trimestre
+Criado em: 2 de jul.2 de jul.
+
+Aviso: "Reset"
+DONIZETE DE GOUVEA
+Criado em: 25 de jun.25 de jun.
+Reset
+
+reset.css
+Folha de estilo
+
+Adicionar comentário para a turma...
+
+
+Aviso: "@import url("styles/header.css"); :root…"
+DONIZETE DE GOUVEA
+Criado em: 11 de jun.11 de jun.
+@import url("styles/header.css");
+
+:root {
+    --cor-de-fundo: #EBECEE;
+    --branco: #FFFFFF;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+Adicionar comentário para a turma...
+
+
+Aviso: "<!DOCTYPE html> <html> <head> <meta…"
+DONIZETE DE GOUVEA
+Criado em: 11 de jun.11 de jun.
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>AluraBooks</title>
+        <link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <header class="cabeçalho">
+            <div class="container">
+                <span class="cabeçalho__menu-hamburguer container__imagem"></span>
+                <img src="img/Logo.svg" alt="Logo da AluraBooks" class="container__imagem">
+            </div>
+            <div class="container">
+                <a href="#"><img src="img/Favoritos.svg" alt="Meus favoritos" class="container__imagem"></a>
+                <a href="#"><img src="img/Compras.svg" alt="Carrinho de compras" class="container__imagem"></a>
+                <a href="#"><img src="img/Usuario.svg" alt="Meu perfil" class="container__imagem"></a>
+            </div>
+        </header>
+    </body>
+</html>
+
+Adicionar comentário para a turma...
+
+
+Aviso: "Aula 23/02/2024"
+DONIZETE DE GOUVEA
+Criado em: 23 de mai.23 de mai.
+Aula 23/02/2024
+
+Adicionar comentário para a turma...
+
+
+Aviso: "Conteúdo aula 23-05-2024 DevToolsÉ uma…"
+DONIZETE DE GOUVEA
+Criado em: 22 de mai.22 de mai. (editado: 23 de mai.)
+Conteúdo aula 23-05-2024
+
+DevToolsÉ uma ferramenta de desenvolvimento integrada nos navegadores Google Chrome e Microsoft Edge que permite aos desenvolvedores inspecionar, depurar e otimizar seus sites. Você pode visualizar e alterar o CSS, visualizar o console para erros de JavaScript, visualizar solicitações de rede, entre outras coisas.
+Para redefinir as configurações do DevTools no Google Chrome ou Microsoft Edge, você pode seguir os passos abaixo:
+1.    Abra o DevTools (pressione F12 no Windows).
+2.    Pressione F1 para abrir o painel de configurações.
+3.    Role a aba Preferências até o final.
+4.    Clique na opção “Restaurar padrões e recarregar”.
+
+Reset.css
+O Reset.css é uma folha de estilo CSS usada para redefinir a formatação de todos os elementos HTML para um padrão consistente, removendo todas as estilizações padrão fornecidas pelos navegadores. Isso é útil para evitar inconsistências de estilo entre diferentes navegadores. O Reset.css é usado antes da folha de estilo principal para garantir que suas estilizações sejam aplicadas corretamente.
+
+Header
+No desenvolvimento web, o termo “header” geralmente se refere à área superior de um site, que pode conter elementos como o logotipo da empresa, o menu de navegação e outros recursos importantes. No contexto do CSS, você pode estilizar o header usando várias propriedades, como display: flex para alinhar os elementos do header, como o logo e o menu, lado a lado.
+
+Flexbox
+ Flexbox, ou Flexible Box Layout, é um modelo de layout CSS que permite que você crie layouts complexos com mais eficiência e consistência entre diferentes tamanhos de tela. Ele fornece uma maneira de alinhar e distribuir espaço entre itens em um container, mesmo quando seus tamanhos são desconhecidos ou dinâmicos. Com o Flexbox, você pode controlar a direção, alinhamento, tamanho e ordem dos elementos.
+
+Import
+No CSS, a regra @import é usada para importar estilos de um arquivo CSS para outro. Isso é útil quando você deseja dividir seu CSS em arquivos menores e mais gerenciáveis. Por exemplo, você pode ter um arquivo CSS para o layout geral do site, outro para tipografia, outro para cores, etc. Então, você pode usar @import para combinar todos esses estilos em um único arquivo CSS.
+
+Checkbox 
+É um tipo de campo de entrada em um formulário HTML que permite ao usuário selecionar uma ou mais opções de um número limitado de escolhas. É representado como uma caixa quadrada que é marcada (com uma marca de verificação) quando ativada.
+
+Adicionar comentário para a turma...
+
+
+Aviso: "Inicio 2º Trimestre"
+DONIZETE DE GOUVEA
+Criado em: 22 de mai.22 de mai.
+Inicio 2º Trimestre
+
+Adicionar comentário para a turma...
+
+Atividade: "07 – 2º Trimestre - Atividade 1"
+DONIZETE DE GOUVEA postou uma nova atividade: 07 – 2º Trimestre - Atividade 1
+Criado em: 21 de mai.21 de mai. (editado: 11 de jun.)
+Atividade: " 06 – Conta Linkedin"
+DONIZETE DE GOUVEA postou uma nova atividade: 06 – Conta Linkedin
+Criado em: 21 de mai.21 de mai. (editado: 22 de mai.)
+Atividade: "— — — 2º Trimestre — — — "
+DONIZETE DE GOUVEA postou uma nova atividade: — — — 2º Trimestre — — —
+Criado em: 21 de mai.21 de mai. (editado: 22 de mai.)
+Atividade: "05 – Recuperação - 2ª Avaliação"
+DONIZETE DE GOUVEA postou uma nova atividade: 05 – Recuperação - 2ª Avaliação
+Criado em: 14 de mai.14 de mai.
+
+Aviso: "<html lang="en"> <head> <meta…"
+DONIZETE DE GOUVEA
+Criado em: 30 de abr.30 de abr. (editado: 7 de mai.)
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina do Donizete</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="cabecalho">
+        <img class="cabecalho-imagem" src="logo_Apl.png" alt="logo do Colégio Aplicação">
+        <ul class="cabecalho-lista">
+            <li class="cabecalho-lista-item">Escola</li>
+            <li class="cabecalho-lista-item">Estudante</li>
+        </ul>
+    </header>
+
+</body>
+</html>
+
+Adicionar comentário para a turma...
+
+
+Aviso: "* { margin: 0; padding: 0; } .cabecalho…"
+DONIZETE DE GOUVEA
+Criado em: 30 de abr.30 de abr. (editado: 7 de mai.)
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: #d4dbe4;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 10%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+
+Adicionar comentário para a turma...
+
+Atividade: "04 - Atividade final 1º Trimestre"
+DONIZETE DE GOUVEA postou uma nova atividade: 04 - Atividade final 1º Trimestre
+Criado em: 9 de abr.9 de abr.
+
+Aviso: "<!DOCTYPE html> <html lang="pt-br">…"
+DONIZETE DE GOUVEA
+Criado em: 9 de abr.9 de abr.
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina do Donizete e do João</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+   
+<body>
+    <header>
+ 
+        <ul>
+            <li>Escola</li>
+            <li>Estudante</li>
+        </ul>
+
+
+    </header>
+   
+</body>
+</html>
+
+Adicionar comentário para a turma...
+
+
+Aviso: "<!DOCTYPE html> <html lang="pt-br">…"
+DONIZETE DE GOUVEA
+Criado em: 2 de abr.2 de abr. (editado: 2 de abr.)
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina do Donizete</title>
+</head>
+<body>
+   
+</body>
+</html>
+Exibindo logo_Apl.png
+logo_Apl.png
+1 comentário para a turma
+
+RAFAEL AKITAKA SASAKI2 de abr.
+https://drive.google.com/file/d/1I3VASd6pl8lILBHEsWal8ZoDsabWJuKI/view?authuser=0&usp=classroom_web
+
+Adicionar comentário para a turma...
+
+Atividade: "03 – Utilizando HTML e CSS para construir um site criativo "
+DONIZETE DE GOUVEA postou uma nova atividade: 03 – Utilizando HTML e CSS para construir um site criativo
+Criado em: 26 de mar.26 de mar.
+Atividade: "02 - Criar um protótipo de baixa confiabilidade no Figma"
+DONIZETE DE GOUVEA postou uma nova atividade: 02 - Criar um protótipo de baixa confiabilidade no Figma
+Criado em: 19 de mar.19 de mar.
+Atividade: "01 - GitHub"
+DONIZETE DE GOUVEA postou uma nova atividade: 01 - GitHub
+Criado em: 5 de mar.5 de mar. (editado: 5 de mar.)
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+reset.css
+Exibindo reset.css…
